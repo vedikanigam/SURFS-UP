@@ -1,3 +1,8 @@
+#Files to ignore
+app.py
+climate_analysis.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
