@@ -5,17 +5,16 @@
 In this project, we are analysing a weather dataset for an investor W.Avy who is going to invest in a business plan for a Surf and Shake shop in Oahu. Using database engine SQLite and SQLalchemy (a query tool for SQLite), we will run some analytics for june and december weather in Oahu. 
 
 ### Purpose
-The purpose of this analysis is to find temperature statistics for the months of June and December in Oahu to determine if it is open a surf and shake shop all year-round in Oahu.
+The purpose of this analysis is to find temperature statistics for the months of June and December in Oahu to determine if it is feasible to open a surf and shake shop all year-round in Oahu.
 
 ## Results
 
-###Temperature data - June
+###Temperature data June
 
 
 ![Temperature_data_June](https://github.com/vedikanigam/SURFS-UP/blob/main/June_temperature.png)
 
-
-###Temperature data - December###
+###Temperature data December
 
 
 ![Temperature_data_December](https://github.com/vedikanigam/SURFS-UP/blob/main/december_temperature.png)
@@ -24,11 +23,11 @@ The purpose of this analysis is to find temperature statistics for the months of
 From the above images the key points in June and December weather are as follows-
 
 
-- **The mean temperature for June is 75 degree F and for December is 71 degree F** -
+- **The mean temperature for June is 75 degree F and for December is 71 degree F** 
 
-- **The range in June temperature data is 21 degree F (max temp 85F, min temp 64 F)and the range in December temperature data is 27 degree F(max temp 83F, min temp 56F)** -
+- **The range in June temperature data is 21 degree F (max temp 85F, min temp 64 F)and the range in December temperature data is 27 degree F(max temp 83F, min temp 56F)** 
 
-- **The standard deviation for June is 3.25 degree F and for December is 3.7 degree F** -
+- **The standard deviation for June is 3.25 degree F and for December is 3.7 degree F** 
 
 
 ## Summary 
